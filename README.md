@@ -1,2 +1,2 @@
 # python-examples
-Some examples I've created for our programming in medical physics class. 
+Some examples I've created for the programming in medical physics class. These scripts (and more) are explained in detail in the lecture notes.
