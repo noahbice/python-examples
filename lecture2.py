@@ -6,7 +6,7 @@ Created on Thu Jan  9 14:08:24 2020
 
 This script is an example for RADI 6022.
 This is a multi-line comment.
-
+"""
 
 
 import numpy as np
@@ -74,7 +74,6 @@ def print_X():
 X = 'Local variables drool!'
 print_X()
 print(X)
-"""
 
 def print_args(*args):
     for arg in args:
